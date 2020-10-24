@@ -1,5 +1,4 @@
 //with Express
-/*
 const express = require('express');
 const app = express();
 
@@ -12,7 +11,7 @@ app.get('/api/greeting', (req, res) => {
 app.listen(3001, () =>
   console.log('Express server is running on localhost:3001')
 ); 
-*/
+/*
 //with NodeJS
 const http = require('http');
 const url = require('url');
@@ -38,3 +37,4 @@ const server = http.createServer((req, res) => {
 server.listen(3001, () =>
   console.log('Node server is running on localhost:3001')
 );
+*/
