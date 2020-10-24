@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone the project, change into the directory and install the dependencies.
 
 ```bash
-git clone https://github.com/silvanatrabalon/react-node.git
+git clone https://github.com/silvanatrabalon/react-nodejs.git
 cd react-node
 npm install
 ```
